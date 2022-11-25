@@ -4,3 +4,5 @@ __pycache__
 lightning_logs
 outputs
 submission.csv
+yolov5
+yolodata
